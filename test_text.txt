@@ -4,5 +4,4 @@ For commiting changes
 
 Second change
 
-Fourth change for life
 Third change, dont stage
